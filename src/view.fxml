@@ -120,7 +120,7 @@
             <Font size="14.0" />
         </font>
     </Label>
-    <TextField fx:id="inputValue" onKeyPressed="#getResult" prefHeight="26.0" prefWidth="64.0">
+    <TextField fx:id="inputValue" onKeyPressed="#getResult" prefHeight="30.0" prefWidth="62.0">
         <font>
             <Font name="System Italic" size="14.0" />
         </font>

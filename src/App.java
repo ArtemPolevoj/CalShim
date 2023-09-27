@@ -8,7 +8,6 @@ public class App extends javafx.application.Application{
         launch();
     }
 
-
     @Override
     public void start(Stage stage) throws Exception {
         FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("view.fxml"));

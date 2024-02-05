@@ -4,6 +4,7 @@ import java.util.List;
 public class ModList {
     private static final List<Double> list = new ArrayList<>();
 
+
     public static void setLisl(String sizeShim1, String countShim1,
                                String sizeShim2, String countShim2,
                                String sizeShim3, String countShim3,

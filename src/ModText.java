@@ -17,7 +17,7 @@ public class ModText {
         for (Double i : list) {
             max = Math.nextDown(max) + Math.nextDown(i);
         }
-        if (list.size() == 0){
+        if (list.isEmpty()){
             return "Проверь введённые значения.";
         }
         if (dobInputShimValue <= 0){
